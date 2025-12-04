@@ -1,2 +1,3 @@
-# resumo-do-lab
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento lab na DIO
+# Resumo-do-Lab
+
+Durante este laboratório, aprendi sobre diferentes modelos de nuvem, incluindo nuvem privada, pública e hibrida, entendendo suas características, vantagens e como podem ser usadas em conjunto. Também explorei o modelo baseado em consumo, que permite pagar apenas pelo uso real dos serviços, oferecendo melhor previsão de custos. Além disso, compreendi a diferença entre CapEx, que representa investimentos em infraestrutura física, e OpEx, que engloba custos operacionais recorrentes, como energia, internet e serviços em nuvem, o que ajuda no planejamento e gestão eficiente de recursos em ambientes de TI.
